@@ -10,9 +10,9 @@ Atualmente estou explorando os fundamentos de **HTML, CSS, JavaScript, C e Pytho
 🧠 No que estou focando agora
 
 - Aprimorando minhas habilidades em Front-End com HTML, CSS e JavaScript  
-- Estudando lógica de programação e estruturas de dados em C  
+- Estudando lógica de programação e estruturas de dados em Java  
 - Fazendo alguns projetos em Python para praticar  
-- Me aprofundando em conceitos de banco de dados (SQL)
+- Me aprofundando em conceitos de banco de dados (MySQL)
 
 ---
 
@@ -26,13 +26,19 @@ Atualmente estou explorando os fundamentos de **HTML, CSS, JavaScript, C e Pytho
 ---
 
 🔧 Tecnologias que uso
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+<p align-item="center">
+    <h2>Front-End</h2>
+    <img src="![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)"/>  
+    <img src="![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)"/>  
+    <img src="![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)"/> <br>
+    <h2>Back-End</h2>
+    <img src="![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)"/>
+    <img src="![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)"/>
+    <img src="![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)"/>
+    <img src="![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)"/> <br>
+    <h2>Banco de Dados</h2>
+    <img src="![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)"/>
+</p>
 ---
 
 📊 Minhas estatísticas no GitHub
