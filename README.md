@@ -1,4 +1,4 @@
-👋 Olá, eu sou o João Felipe
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Felipe" alt="Typing SVG" /></a>
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.  
 Atualmente estou explorando os fundamentos de **HTML, CSS, JavaScript, C e Python**, sempre buscando evoluir com cada projeto.
@@ -49,13 +49,14 @@ Atualmente estou explorando os fundamentos de **HTML, CSS, JavaScript, C e Pytho
 📊 Minhas estatísticas no GitHub
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=Chartreuse-del&theme=radical"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=FelipeHypertext&show_icons=true&theme=tokyonight"/>
+    <br/>
 </p>
 
 ---
 
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chartreuse-del&theme=react-dark"/> 
+<p align="center">    
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FelipeHypertext&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -80,7 +81,7 @@ Curioso, persistente e apaixonado por construir coisas do zero — cada novo pro
 > “A mente é como um paraquedas, só funciona se estiver aberta. ”  
 🌟 Um commit de cada vez, sempre evoluindo.
 
-
+&cache_seconds=10
 <!--
 **Chartreuse-del/Chartreuse-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
