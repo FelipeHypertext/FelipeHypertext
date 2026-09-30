@@ -22,6 +22,16 @@ Atualmente estou explorando os fundamentos de kotlin e desenvolvendo minhas habi
 - Tendo perspectivas novas desenvolvendo em ambiente Mobile.
 
 ---
+✨ Projeto em Destaque
+
+Repo de desenvolvimento mobile:
+<p align="center">
+  <a href="https://github.com/FelipeHypertext/seu-repositorio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeHypertext&repo=Oficina-do-Tiao-Mobile&theme=tokyonight" />
+  </a>
+</p>
+
+---
 
 🚀 Alguns projetos meus
 
@@ -45,7 +55,7 @@ Atualmente estou explorando os fundamentos de kotlin e desenvolvendo minhas habi
 <p align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"&cache=none/>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <br>
 </p>
     <h3 align="center">Banco de dados</h3>
