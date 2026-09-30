@@ -3,16 +3,23 @@
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia em geral.  
 Atualmente estou explorando os fundamentos de kotlin e desenvolvendo minhas habilidades com **C#**, sempre aprendendo a cada projeto.
 
-✨ Atualmente utilizando VScode e as várias versões do JetBrains como IDEs (específicamente Rider e IntelliJ).
+✨ Atualmente utilizando VScode e as várias versões do JetBrains como IDEs (especificamente Rider e IntelliJ).
+
+---
+
+💼 Experiência Profissional
+
+- Atualmente trabalho como **Estagiário Fullstack** na **REDDOP**, onde aplico meus conhecimentos na prática e sigo me desenvolvendo no mercado de tecnologia.
 
 ---
 
 🧠 No que estou focando agora
 
-- Aprimorando minhas habilidades em Front-End com AngularJS  
-- Estudando lógica de programação e estruturas de dados em Java  
-- Fazendo um projeto em C# para praticar o Back-end
-- Me aprofundando em conceitos de banco de dados (Pandas)
+- Aprimorando minhas habilidades em Front-End com Angular.
+- Estudando lógica de programação e estruturas de dados em Java.
+- Fazendo um projeto em C# para praticar o Back-end.
+- Me aprofundando em conceitos de banco de dados (Pandas).
+- Tendo perspectivas novas desenvolvendo em ambiente Mobile.
 
 ---
 
@@ -22,7 +29,7 @@ Atualmente estou explorando os fundamentos de kotlin e desenvolvendo minhas habi
 - **Programas em C** para praticar lógica, vetores, funções e modularização  
 - **Banco de Dados para uma Fintech** modelado em SQL, trabalhando com tabelas, relacionamentos e consultas  
 - Scripts em Python para automatização de tarefas simples enquanto aprendo
-- Desenvolvendo um projeto de treino em Kotlin + JetPack Compose
+- Desenvolvendo um projeto de treino em Kotlin + JetPack Compose (arquitetura MVVM)
 
 ---
 
@@ -31,18 +38,25 @@ Atualmente estou explorando os fundamentos de kotlin e desenvolvendo minhas habi
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <br>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <br>
 </p>    
     <h3 align="center">Back-end</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"&cache=none/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <br>
 </p>
     <h3 align="center">Banco de dados</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>    
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+    <h3 align="center">Mobile</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
 </p>
 
 ---
@@ -64,35 +78,18 @@ Atualmente estou explorando os fundamentos de kotlin e desenvolvendo minhas habi
 
 🕹️ Um pouco sobre mim
 
-Jogador de indies como *Deltarune*, sempre em busca de testar a lógica e me desafiar,  
-Leitor de livros de programação para aprender mais e de fantasia para alimentar a imaginação,  
-E consumidor constante de vídeos de tecnologia para me manter atualizado.
+Além do código, sou movido pela resolução e aprendizagem de problemas complexos. Seja testando minha capacidade analítica e estratégica em jogos indie, ou expandindo minha visão por meio de livros de tecnologia e fantasia, busco sempre novas formas de pensar e inovar.
 
-Curioso e apaixonado por construir coisas do zero — cada novo projeto é uma oportunidade de crescer como programador e como pessoa.
+Encaro o desenvolvimento de software como a oportunidade de construir soluções do zero. Acredito que a tecnologia vai muito além da sintaxe: trata-se de entender problemas reais, aprender continuamente e criar aplicações que gerem valor para as pessoas. Cada desafio que enfrento hoje, tanto nos estudos quanto no meu estágio, é um passo fundamental para me tornar um desenvolvedor cada vez mais completo.
 
 ---
 
-🔗 Como me encontrar
+🔗 Vamos nos conectar?
 
-- LinkedIn: https://www.linkedin.com/in/joão-felipe-mokdse-costa/ 
-- Email: joaofe.mokdse@gmail.com  
+- **LinkedIn:** [João Felipe Mokdse Costa](https://www.linkedin.com/in/joão-felipe-mokdse-costa/) 
+- **Email:** joaofe.mokdse@gmail.com  
 
 ---
 
-> “A mente é como um paraquedas, só funciona se estiver aberta. ”  
-🌟 Um commit de cada vez, sempre evoluindo.
-
-<!--
-**Chartreuse-del/Chartreuse-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Código de excelência é aquele que resolve problemas reais e transforma boas ideias em resultados palpáveis."  
+🌟 Um commit de cada vez, construindo o futuro e sempre evoluindo.
