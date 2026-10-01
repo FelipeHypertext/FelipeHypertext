@@ -26,7 +26,7 @@ Atualmente estou explorando os fundamentos de kotlin e desenvolvendo minhas habi
 
 Repo de desenvolvimento mobile:
 <p align="center">
-  <a href="https://github.com/FelipeHypertext/seu-repositorio">
+  <a href="https://github.com/FelipeHypertext/Oficina-do-Tiao-Mobile">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeHypertext&repo=Oficina-do-Tiao-Mobile&theme=tokyonight" />
   </a>
 </p>
